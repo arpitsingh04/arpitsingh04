@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<hr>
+
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsingh04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitsingh04" alt="arpitsingh04" /></a> </p>
 
 - 🔭 I’m currently working on **Web based projects**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **arpitsinghofc@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19U2NAcHFlxaN0mAkzqTPfHVNczf4Wd7B/view?usp=drive_link](https://drive.google.com/file/d/19U2NAcHFlxaN0mAkzqTPfHVNczf4Wd7B/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Batman**
 
