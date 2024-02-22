@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Arpit Singh</h1>
+<h1 align="center">Hi 👋, I'm Arpit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <hr>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 
-- 🔭 I’m currently working on **Web based projects**
+- 🔭 I’m currently working on **Web projects**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **arpitsinghofc@gmail.com**
+- 📫 How to reach me :**arpitsinghofc@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact :**I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
