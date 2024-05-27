@@ -11,7 +11,7 @@
 
 - 📫 How to reach me :**arpitsinghofc@gmail.com**
 
-- ⚡ Fun fact :**I am Batman**
+- ⚡ Fact :**I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
